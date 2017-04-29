@@ -27,3 +27,5 @@
 10. $('#message').attr('placeholder','state your business')
 
 11. $('input[type=text]').val('your nemesis')
+
+12. $('input[type=email]').val('koalathebear@gmail.com')
