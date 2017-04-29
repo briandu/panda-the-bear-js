@@ -10,4 +10,4 @@
 
 2. $('h1.highlight').text('Brian Du')
 
-3. $('#time-travel').parent('.bar-default').remove()
+3. $('#employment .info-title').text('Experience')
