@@ -19,3 +19,5 @@
 6. $('.highlight').css('color','red')
 
 7. $('h1').css('font-family', 'monospace')
+
+8. $('.action-icon i').css('color','red')
