@@ -21,3 +21,5 @@
 7. $('h1').css('font-family', 'monospace')
 
 8. $('.action-icon i').css('color','red')
+
+9. $('input[type=text]').attr('placeholder','identify yourself')
