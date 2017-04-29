@@ -25,3 +25,5 @@
 9. $('input[type=text]').attr('placeholder','identify yourself')
 
 10. $('#message').attr('placeholder','state your business')
+
+11. $('input[type=text]').val('your nemesis')
