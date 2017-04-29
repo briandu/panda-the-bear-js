@@ -9,3 +9,5 @@
 1. $('#left-image').children('img').attr('src', 'http://lorempixel.com/325/225/');
 
 2. $('h1.highlight').text('Brian Du')
+
+3. $('#time-travel').parent('.bar-default').remove()
