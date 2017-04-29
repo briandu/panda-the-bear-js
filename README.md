@@ -29,3 +29,5 @@
 11. $('input[type=text]').val('your nemesis')
 
 12. $('input[type=email]').val('koalathebear@gmail.com')
+
+13. $('input[type=submit]').val('En garde!')
