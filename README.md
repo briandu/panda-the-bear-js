@@ -11,3 +11,5 @@
 2. $('h1.highlight').text('Brian Du')
 
 3. $('#employment .info-title').text('Experience')
+
+4. $('#time-travel').parent().remove()
